@@ -1,99 +1,63 @@
-<h1 align="center">👋 Hey, I'm Ashil Roy</h1>
-<h3 align="center">Full-Stack Developer | Problem Solver | Tech Event Organizer</h3>
+<h1 align="center">✨ Hey, I'm <span style="color:#7d4cff">Ashil Roy</span> 👋</h1>
+<h3 align="center">🚀 Full-Stack Developer Intern @ SMEClabs | BCA Graduate | Builder of Smart Solutions</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashilroy&label=Profile+Views&color=blueviolet&style=plastic" alt="profile views" />
+  <i>"Crafting systems, solving problems, leveling up daily."</i>
 </p>
 
----
-
-## 🚀 About Me  
-✔ BCA 3rd year student passionate about **Backend Development, APIs, Databases & Scalable Systems**  
-✔ Skilled in **Python, Django, Java, MySQL, HTML, CSS, JS, React (learning)**  
-✔ Event Coordinator of **JAM** & organizer of several tech challenges  
-✔ Currently building: **RTO Management System (Django)**  
-✔ Career Goal: *Become a strong backend/full-stack developer in the IT industry*
-
----
-
-## 🛠 Tech Stack
-
-### 🌐 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
-
-### 🧠 Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,php" />
-</p>
-
-### 🗄 Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### ⚙ Tools & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman" />
-</p>
-
----
-
-## 📌 Featured Projects  
-
-### 🔹 **RTO Management System — Django**
-A complete RTO automation system with user roles, vehicle registration, license management, secure login & admin dashboards.
-
-### 🔹 **College Fest Management System**
-Manages events, volunteers, bookings, and registrations. Built with **PHP + MySQL**.
-
-### 🔹 **Smart Study Planner (Frontend Only)**
-A creative UI project for scheduling, tracking tasks & smart reminders.
-
-### 🔹 **BookEX (Frontend Only)**
-A creative UI project for scheduling, tracking tasks & smart reminders.
-
-> Want links added? Just give me your repo URLs.
-
----
-
-## 🧩 What I'm Learning Right Now  
-- REST API Design  
-- React Components & State Management  
-- Clean Architecture & scalable backend patterns  
-- Career prep: OOPs, DBMS, Aptitude, System Design basics
-
----
-
-## 🎯 Future Goals  
-💡 Build real-world level projects  
-💡 Improve DSA & backend architecture  
-💡 Contribute to open-source  
-💡 Land an entry-level developer role
-
----
-
-## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashilroy&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashilroy&theme=radical" height="165" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=7D4CFF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Django+%7C+Python+%7C+React;Intern+at+SMEClabs;Always+Building+%26+Always+Learning+🔥" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
-<p>
-<a href="https://linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="mailto:ashilroy@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-</p>
+## 🧑‍🚀 **About Me**
+From a **BCA graduate** to a **Full-Stack Dev Intern at SMEClabs**, my journey is all about upgrading myself one project at a time.  
+I’m driven by curiosity, fueled by real-world problems, and obsessed with building systems that *feel good to use*.
 
 ---
 
-## ✨ Fun Side of Me  
-🎮 Gamer | 🧠 Problem Solver | 🎤 JAM Event Coordinator  
-“**Learning something new every single day — one bug at a time.**”
+## 🌌 Transition → “What I Do”
+So… what exactly do I build?
 
 ---
 
-### ⭐ If you like my projects, feel free to give them a star!  
+## 💠 **Tech Universe I Work In**
+(Your tech stack section here)
+
+---
+
+## 🚀 Transition → “My Work in Action”
+Behind every skill is a project — here are the ones shaping me right now.
+
+---
+
+## 📌 **Projects**
+(Your project sections here)
+
+---
+
+## ⚡ Transition → “Still Growing”
+Because the best developers never stop learning…
+
+---
+
+## ✨ **What I’m Learning**
+(Your learning section)
+
+---
+
+## 🎯 Transition → “My Mission”
+Here’s where I’m heading next.
+
+---
+
+## 🎯 **My Mission**
+(Your mission section)
+
+---
+
+## 🤝 Transition → “Stay Connected”
+Let’s build something together.
+
+---
